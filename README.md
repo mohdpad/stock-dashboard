@@ -2,6 +2,9 @@
 
 A premium, production-ready financial analytics dashboard built with **Streamlit**, **YFinance**, and **Plotly**. This application enables institutional-grade, multi-stock comparative analysis by delivering real-time pricing metrics, responsive historical market visualization, expanded corporate fundamental data, and a live financial news pipeline.
 
+## Watch it in action:
+https://stock-market-dashboard-pro.streamlit.app/
+
 ## 🚀 Key Architectural Features
 
 *   **Asynchronous API Search Auto-Complete:** Utilizes an asynchronous background processing pipeline via `streamlit-searchbox` to query Yahoo Finance endpoints dynamically on every keystroke, bypassing traditional `Enter`-to-submit lag.
